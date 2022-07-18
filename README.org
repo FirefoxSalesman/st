@@ -1,0 +1,14 @@
+* St- Soyjack Terminal
+Suckless St, but pretty
+
+* Features:
+- Xresources
+- Blinky cursor
+- Draws boxes nicely
+
+* Installation:
+#+BEGIN_SRC bash
+sudo make clean install
+#+END_SRC
+
+Patch folder is kept around for reference
